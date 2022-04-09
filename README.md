@@ -39,4 +39,4 @@ In order to edit the default configuration you may execute:
 php artisan vendor:publish --provider="Mcamara\LaravelLocalization\LaravelLocalizationServiceProvider"
 ```
 After that, config/laravellocalization.php will be created.
-# Written by Abdشlla Besha
+# Written by Abdalla Besha
