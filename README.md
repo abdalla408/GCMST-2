@@ -14,6 +14,8 @@
 ```bash
 git clone https://github.com/abdalla408/GCMST-2.git
 ```
+# Run The Project:
+Follow these next steps.
 #### Download vendor files
 ```bash
 composer install
@@ -37,3 +39,4 @@ In order to edit the default configuration you may execute:
 php artisan vendor:publish --provider="Mcamara\LaravelLocalization\LaravelLocalizationServiceProvider"
 ```
 After that, config/laravellocalization.php will be created.
+# Written by Abdشlla Besha
